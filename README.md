@@ -44,10 +44,6 @@
 </p>
 
 ---
-
-### 📌 Projetos em destaque
-🚧 Em construção... (em breve projetos com foco em IA, dados e back-end)
-
 ---
 
 ### 💡 Atualmente estudando
