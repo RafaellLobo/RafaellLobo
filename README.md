@@ -30,15 +30,11 @@
 <p align="left">
 
   <img src="https://skillicons.dev/icons?i=python,cpp,react,js,git" />
-  <br><br>
 
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-  <br><br>
 
   <img src="https://skillicons.dev/icons?i=figma" />
   
-  <br>
-  <!-- Power BI (manual porque não tem no skillicons) -->
   <img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
 
 </p>
